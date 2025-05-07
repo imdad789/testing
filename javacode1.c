@@ -1,4 +1,0 @@
-ulla
-sibquath
-nayeem
-salooni

@@ -1,6 +1,4 @@
-main ()
-{
-
-	print.out.ln("Test Code")
-}
-
+ulla
+sibquath
+nayeem
+salooni
